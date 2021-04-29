@@ -46,7 +46,12 @@ Add the JitPack repository to your build file
 	}
   ```
 
-* Step 3. Implement the Listener SeoPreview.ResponseListener:
+* Step 3. Add internet permission to your manifest file:
+  ```sh
+    <uses-permission android:name="android.permission.INTERNET" />
+  ```
+
+* Step 4. Implement the Listener SeoPreview.ResponseListener:
   ```sh
     class YourClass : SeoPreview.ResponseListener {
       .....
