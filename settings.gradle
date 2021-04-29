@@ -1,0 +1,3 @@
+include ':seo'
+include ':app'
+rootProject.name = "RickLinkPreview"
