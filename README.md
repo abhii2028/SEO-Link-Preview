@@ -42,7 +42,7 @@ Add the JitPack repository to your build file
 * Step 2. Add the dependency:
   ```sh
   dependencies {
-	        implementation 'com.github.abhii2028:RichLinkPreview:0.0.1'
+	        implementation 'com.github.abhii2028:SEO-Link-Preview:alpha-v0.0.1'
 	}
   ```
 
