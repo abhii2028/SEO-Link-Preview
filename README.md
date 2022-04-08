@@ -110,4 +110,4 @@ Name - Abhijeet Prusty
 
 Email - abhijeetprusty28@gmail.com
 
-Project Link: [https://github.com/abhii2028/RichLinkPreview)
+Project Link: [https://github.com/abhii2028/SEO-Link-Preview)
